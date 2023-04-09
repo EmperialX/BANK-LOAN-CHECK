@@ -1,2 +1,2 @@
 # Bank
-hello this is example
+THIS HELPS IN CREATING DATA TO CHECK FOR LOAN ELIGIBLITY 
